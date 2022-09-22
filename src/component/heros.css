@@ -1,0 +1,34 @@
+span{
+    padding-top: 10px;
+    vertical-align: middle;
+}
+tbody{
+   border-radius: 3px;
+   margin-bottom: 5px;
+}
+td img{
+    width: 80px;
+    height:80px;
+    margin-right: 12px;
+}
+th:first-child {
+    width: 20%;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+th:nth-child(2) {
+    width: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+th:last-child {
+    width: 60%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tdata{
+    vertical-align: middle;
+    text-align: left;
+}
